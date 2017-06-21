@@ -1,0 +1,6 @@
+list of git commands:
+git add
+git commit -m 'message'
+esc :wq # exit when in trouble with git commit
+git push
+git pull
